@@ -13,7 +13,7 @@ Deep Learning Models have provided an excellent way to get results for examples 
 [FLICKR_8K](https://forms.illinois.edu/sec/1713398).
 This dataset includes around  images along with 5 different captions written by different people for each image.
 
-![](Images/dataset_image.PNG?raw=true)
+![](Images/dataset_image.png?raw=true)
 <br>
 
 ## The Block diagram of model used in the project
@@ -56,8 +56,12 @@ Pre trained VGG16 Model has been used to extract the features of the image.
 <br>
 
 ## Evaluation using BLEU score
+### Good Captions
 
 ![](Images/good.PNG?raw=true)
+<br>
+
+### Bad Captions
 
 ![](Images/bad.PNG?raw=true)
 
